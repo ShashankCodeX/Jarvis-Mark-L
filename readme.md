@@ -2,7 +2,7 @@
 
 A desktop voice assistant that uses the Gemini Live API to talk with you and help control your computer.
 
-Forked and maintained by ShashankCodeX, based on the [original MARK L project](https://github.com/FatihMakes/Mark-L). This fork retains the original project's [Creative Commons BY-NC 4.0 license](https://creativecommons.org/licenses/by-nc/4.0/).
+Forked and maintained by ShashankCodeX. This fork retains the original project's [Creative Commons BY-NC 4.0 license](https://creativecommons.org/licenses/by-nc/4.0/).
 
 ## What it can do
 
@@ -58,4 +58,4 @@ API keys, certificates, personal memory, virtual environments, and browser downl
 
 ## License
 
-This fork retains the original project's CC BY-NC 4.0 license. See the [license terms](https://creativecommons.org/licenses/by-nc/4.0/) and the original [MARK L project](https://github.com/FatihMakes/Mark-L).
+This fork retains the original project's CC BY-NC 4.0 license. See the [license terms](https://creativecommons.org/licenses/by-nc/4.0/) .
